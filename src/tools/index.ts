@@ -87,6 +87,7 @@ import { tool as uuidGenerator } from './uuid-generator';
 import { tool as macAddressLookup } from './mac-address-lookup';
 import { tool as xmlFormatter } from './xml-formatter';
 import { tool as yamlViewer } from './yaml-viewer';
+import { tool as gpaCalculator } from './gpa-calculator';
 
 export const toolsByCategory: ToolCategory[] = [
   {
@@ -189,6 +190,10 @@ export const toolsByCategory: ToolCategory[] = [
   {
     name: 'Data',
     components: [phoneParserAndFormatter, ibanValidatorAndParser],
+  },
+  {
+    name: '校园工具',
+    components: [gpaCalculator],
   },
 ];
 
