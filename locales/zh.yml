@@ -190,6 +190,10 @@ tools:
     title: 绩点/加权平均分计算器
     description: 粘贴教务系统成绩单，自动计算加权平均分与绩点，支持 4.0/4.5/5.0 等多种算法切换。
 
+  timetable-conflict:
+    title: 课表冲突与空闲时段
+    description: 粘贴课表自动检测时间冲突并计算每周空闲时段，支持周次范围与单双周。
+
   toml-to-yaml:
     title: TOML 到 YAML
     description: Parse and convert TOML to YAML.

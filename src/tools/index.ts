@@ -88,6 +88,7 @@ import { tool as macAddressLookup } from './mac-address-lookup';
 import { tool as xmlFormatter } from './xml-formatter';
 import { tool as yamlViewer } from './yaml-viewer';
 import { tool as gpaCalculator } from './gpa-calculator';
+import { tool as timetableConflict } from './timetable-conflict';
 
 export const toolsByCategory: ToolCategory[] = [
   {
@@ -193,7 +194,7 @@ export const toolsByCategory: ToolCategory[] = [
   },
   {
     name: '校园工具',
-    components: [gpaCalculator],
+    components: [gpaCalculator, timetableConflict],
   },
 ];
 
