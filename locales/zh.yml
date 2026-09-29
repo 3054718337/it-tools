@@ -186,6 +186,10 @@ tools:
     title: Base64 字符串编码/解码
     description: 将字符串编码和解码为其 Base64 格式表示形式即可。
 
+  gpa-calculator:
+    title: 绩点/加权平均分计算器
+    description: 粘贴教务系统成绩单，自动计算加权平均分与绩点，支持 4.0/4.5/5.0 等多种算法切换。
+
   toml-to-yaml:
     title: TOML 到 YAML
     description: Parse and convert TOML to YAML.

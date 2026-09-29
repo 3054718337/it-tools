@@ -189,6 +189,10 @@ tools:
     title: Base64 string encoder/decoder
     description: Simply encode and decode strings into their base64 representation.
 
+  gpa-calculator:
+    title: GPA calculator
+    description: Paste your transcript to calculate weighted average score and GPA, with switchable algorithms.
+
   toml-to-yaml:
     title: TOML to YAML
     description: Parse and convert TOML to YAML.
