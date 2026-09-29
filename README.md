@@ -8,6 +8,8 @@
 Useful tools for developer and people working in IT. <a href="https://it-tools.tech">Try it!</a>
 </p>
 
+> **关于本仓库**：本仓库 fork 自 [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)（GPL-3.0），在此基础上二次开发为「校园工具箱」：新增了原项目没有的**绩点/加权平均分计算器**与**课表冲突检测、空闲时段计算**工具，并补充中文本地化、站点更名。依据 GPL-3.0 许可证的传染性要求，本仓库的所有修改继续以 **GPL-3.0** 协议开源，LICENSE 文件保持不变。
+
 ## Functionalities and roadmap
 
 Please check the [issues](https://github.com/CorentinTh/it-tools/issues) to see if some feature listed to be implemented.
