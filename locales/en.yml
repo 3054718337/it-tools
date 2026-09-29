@@ -193,6 +193,10 @@ tools:
     title: GPA calculator
     description: Paste your transcript to calculate weighted average score and GPA, with switchable algorithms.
 
+  timetable-conflict:
+    title: Timetable conflict & free slots
+    description: Paste your timetable to detect schedule conflicts and compute free slots per week, with week ranges and odd/even weeks.
+
   toml-to-yaml:
     title: TOML to YAML
     description: Parse and convert TOML to YAML.
